@@ -28,5 +28,5 @@ Clientes não-assinantes representam a maior fatia de receita (R$ 597k), revelan
 
 Os estados de SC, RS e GO são líderes na categoria de Periféricos.
 
-![Dashboard Estratégico](Dashboard_Zoop_Megastore_página1.png)
-![Dashboard Estratégico](Dashboard_Zoop_Megastore_página2.png)
+![Dashboard Estratégico](Dashboard_Zoop_Megastore_Página1.png)
+![Dashboard Estratégico](Dashboard_Zoop_Megastore_Página2.png)
