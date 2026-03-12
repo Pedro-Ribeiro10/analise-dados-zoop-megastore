@@ -1,7 +1,7 @@
 -- 1. Criar o banco de dados
 CREATE DATABASE zoop_megastore;
 
--- 2. Ativar o banco (isso garante que as tabelas entrem no lugar certo)
+-- 2. Ativar o banco 
 USE zoop_megastore;
 
 -- 3. Criar a tabela de Clientes
